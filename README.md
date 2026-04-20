@@ -1,4 +1,4 @@
-# Meu_portfolio 💻
+# Meu Portfólio 💻
 site pessoal para apresentar meus projetos.
 
 ## Sobre 
