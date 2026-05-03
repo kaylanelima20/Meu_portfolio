@@ -6,9 +6,9 @@ body {
 }
 
 header {
-   background: linear-gradient(120deg, #240143,#240143);
+   background: linear-gradient(120deg, #240143,#3b0a6b);
    color: white;
-    padding: 35px 20px;
+    padding: 30px 20px;
     text-align: center;
 }
 
@@ -28,21 +28,22 @@ header p {
 
 h2 {
     color: #240143;
+    margin-bottom: 15px;
 }
 
 .card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.12);
 }
 
 .card {
-    background: rgb(252, 252, 252);
+    background:white
     border-radius: 16px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
     margin: 40px auto;
     padding: 30px;
     max-width: 700px;
-    transition: transform 0.2s, box-shadow 0.2s;
+    transition: all 0.2s, 0.25 ease;
 }
 
 a {
@@ -50,7 +51,7 @@ a {
     text-decoration : none;
     display: inline-block;
     padding: 10px 16px;
-    background: #240143;
+    background: linear-gradient(120deg, #3b0a6b, #240143);
     border-radius: 8px;
     margin-top: 10px;
     font-weight: 500;
