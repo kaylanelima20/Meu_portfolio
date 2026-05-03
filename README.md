@@ -18,7 +18,7 @@ Acesse: https://kaylanelima20.github.io/Carlo-Acutis-Site/
 ### To-Do List
 lista de tarefas desenvolvida com HTML, CSS e JavaScript básico.
 
-Acesse: https://github.com/kaylanelima20/my-To-do-list.git
+Acesse: https://kaylanelima20.github.io/my-To-do-list/
 
 ## Aprendizados
  - Estrutura com HTML
