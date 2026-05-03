@@ -13,7 +13,7 @@ Nesse site irei aparesentar os projetos que venho desnevolvendo como parte do me
 ### Site Carlo Acutis
 site educacional desenvolvido em HTML e CSS inspirado na vida de Carlo Acutis.
 
-Acesse: https://github.com/kaylanelima20/Carlo-Acutis-Site.git
+Acesse: https://kaylanelima20.github.io/Carlo-Acutis-Site/
 
 ### To-Do List
 lista de tarefas desenvolvida com HTML, CSS e JavaScript básico.
