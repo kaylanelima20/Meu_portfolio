@@ -20,12 +20,18 @@ lista de tarefas desenvolvida com HTML, CSS e JavaScript básico.
 
 Acesse: https://kaylanelima20.github.io/my-To-do-list/
 
+### Gerador de Senhas
+Aplicação web criada para gerar senhas fortes e personalizadas. Desenvolvida em HTML, CSS, e JavaScript.
+
+Acesse: https://kaylanelima20.github.io/gerador-de-senhas/
+
 ## Aprendizados
  - Estrutura com HTML
  - Estilização com CSS
  - Lógica de programação utilizando Python
  - Consultas e manipulação de dados com SQL
  - Versonamento de códigos com Git e GitHub
+ - Interatividade com Javascript
 
 ## Status
 E desenvolvimento...
